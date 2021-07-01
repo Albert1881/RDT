@@ -16,7 +16,7 @@ This project is based on the existing UDP socket to achieve a reliable data tran
 
 
 
-<img src="C:\Users\albert\AppData\Roaming\Typora\typora-user-images\image-20210702010607779.png" alt="image-20210702010607779" style="zoom:33%;" />
+<img src="images\Process_Close.png" alt="image-20210702010607779" style="zoom:33%;" />
 
 - Flow chart
 
